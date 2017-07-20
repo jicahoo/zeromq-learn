@@ -11,3 +11,4 @@ Learn ZeroMQ
 * http://zguide.zeromq.org/page:all#Getting-the-Message-Out
 * https://raw.githubusercontent.com/imatix/zguide/master/images/fig25.png
 * https://stackoverflow.com/questions/13891682/detect-dropped-messages-in-zeromq-queues
+* https://zeromq.jira.com/browse/LIBZMQ-270
